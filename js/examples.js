@@ -5,5 +5,6 @@ let students = [
         ['Максим', 35],
         ['Артем', 33],
     ]
-students.push = [[name, age]]
-alert(students)
+students.push([name, age])
+console.log(students)
+alert(`${name} ${age}`)
