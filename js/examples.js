@@ -7,4 +7,4 @@ let students = [
     ]
 students.push([name, age])
 console.log(students)
-alert(`'Уррааа! У нас новичок:'${name} 'и ему(ей)' ${age} 'лет'`)
+alert(`'Уррааа! У нас новичок:${name} и ему(ей) ${age} лет'`)
